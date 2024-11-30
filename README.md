@@ -1,1 +1,1 @@
-Srart
+For this to work you need to have sidequest dowmloaded and your quest headset connected to your computer. From there run the exe and click through it and it will run a deepcheck for every cheat possiable on a quest headset.
