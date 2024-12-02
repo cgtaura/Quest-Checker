@@ -1,3 +1,9 @@
+**What you need**
+
+1. https://sidequestvr.com/setup-howto
+
+2. https://github.com/JeremieCHN/MetaDataStringEditor/releases/tag/0.0
+
 **What you need to deepcheck:**
 
 For this to work you need to have sidequest downloaded and your quest headset connected to your computer. From there run the exe and click through it and it will run a deepcheck for every possiable cheat on a quest headset.
