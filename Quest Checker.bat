@@ -1,1 +1,1 @@
-No ADB commands for you ;)
+No ADB commands for you :)
