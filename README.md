@@ -8,6 +8,9 @@
 
 <img width="498" alt="image (2)" src="https://github.com/user-attachments/assets/f5fc7a69-e996-4931-842c-727736ef657c">
 
+<img width="499" alt="image (3)" src="https://github.com/user-attachments/assets/6229a634-6870-4b9d-8320-79e648174214">
+
+
 **What you need to have installed for Quest Checker to function as intended:**
 
 1. https://sidequestvr.com/setup-howto
