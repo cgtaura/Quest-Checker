@@ -39,10 +39,13 @@ ________________________________________________________________________________
 **Credits**
 
 **Developers**
+
 aura and Mystic
 
 **Designers**
+
 Blind and Mooshda
 
 **Testers**
+
 Lennoxx
