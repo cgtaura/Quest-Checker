@@ -27,3 +27,9 @@ ________________________________________________________________________________
 **How to use Quest Checker**
 
 Insert YT Link
+
+_______________________________________________________________________________________
+
+**Why I decided to make the Quest Checker**
+
+I made the Quest Checker because I want the gorilla tag comp community to have a way to deepcheck people on quest. I am not the first person to make an applacation like this, but i am the first person to make an applacation like this public to the gorilla tag comp community. I always disliked the idea of the cgt and gtc mods gatekeeping how they deepcheck quest players so I decided to make a applacation that is easy to use and that deepchecks every possiable setting on quest. So if your deepchecking people after an officail scrim, in need of a quest deepchecker for a new league or catching out quest cheaters in public lobbys, Quest Checker will always be the first option you go too.
