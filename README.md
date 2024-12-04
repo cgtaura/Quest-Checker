@@ -4,7 +4,7 @@
 
 _____________________________________________________________________________________
 
-**Preveiw of Quest Checker:**
+**Preveiw of Quest Checker**
 
 <img width="498" alt="image (1)" src="https://github.com/user-attachments/assets/2987330c-4b11-46b6-8c0e-8e6acb2b0525">
 
@@ -21,6 +21,8 @@ ________________________________________________________________________________
 1. https://sidequestvr.com/setup-howto
 
 2. https://github.com/JeremieCHN/MetaDataStringEditor/releases/tag/0.0
+
+_______________________________________________________________________________________
 
 **How to use Quest Checker:**
 
