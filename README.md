@@ -16,7 +16,7 @@ ________________________________________________________________________________
 
 _______________________________________________________________________________________
 
-**What you need to have installed for Quest Checker to work:**
+**What you need to have installed for Quest Checker to work**
 
 1. https://sidequestvr.com/setup-howto
 
@@ -24,6 +24,6 @@ ________________________________________________________________________________
 
 _______________________________________________________________________________________
 
-**How to use Quest Checker:**
+**How to use Quest Checker**
 
 Insert YT Link
