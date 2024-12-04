@@ -36,7 +36,7 @@ I made the Quest Checker because I want the gorilla tag comp community to have a
 
 _______________________________________________________________________________________
 
-**Credits:**
+***Credits:***
 
 **Developers:**
 
