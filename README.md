@@ -1,6 +1,11 @@
 **Quest Checker by cgtaura**
 
-<img width="502" alt="image (1)" src="https://github.com/user-attachments/assets/efca7a16-6e8c-4156-a872-90661b3902ac">
+![1733148628601](https://github.com/user-attachments/assets/75dc86e8-a05b-4a56-801f-649aa7f6e98e)
+
+<img width="498" alt="image (1)" src="https://github.com/user-attachments/assets/2987330c-4b11-46b6-8c0e-8e6acb2b0525">
+
+<img width="498" alt="image (2)" src="https://github.com/user-attachments/assets/f5fc7a69-e996-4931-842c-727736ef657c">
+
 
 **What you need to have installed for Quest Checker to function as intended:**
 
