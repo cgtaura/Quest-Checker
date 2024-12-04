@@ -1,6 +1,6 @@
 **Quest Checker by cgtaura**
 
-<img width="207" alt="image (5)" src="https://github.com/user-attachments/assets/90c9b31d-018d-4430-9cfa-a0ac6dcf86d9">
+![1733148628601](https://github.com/user-attachments/assets/f96cd3a1-786c-4a4b-b1c5-7911337ef7fc)
 
 _____________________________________________________________________________________
 
