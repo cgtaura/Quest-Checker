@@ -38,14 +38,14 @@ ________________________________________________________________________________
 
 **Credits:**
 
-**Developers**
+**Developers:**
 
 aura and Mystic
 
-**Designers**
+**Designers:**
 
 Blind and Mooshda
 
-**Testers**
+**Testers:**
 
 Lennoxx
