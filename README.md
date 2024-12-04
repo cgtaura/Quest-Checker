@@ -11,7 +11,3 @@
 **How to use Quest Checker:**
 
 Insert YT Link
-
-**Why i made it:**
-
-The reason i made this is that i hated the cgt and gtc mods gatekeeping quest checks just for them to only use them during the final stages of the bracket at the end of a season. So i built an app that uses the same checks they use but you can now deep check anyone at anytime. For your league or to deep check somone after an officail in cgt, gtc and the up and coming league pgt. I hope this will be of use to the whole gorilla tag comp community.
