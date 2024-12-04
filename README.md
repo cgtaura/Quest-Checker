@@ -1,8 +1,8 @@
-**Quest Checker by cgtaura**
+**Quest Checker by cgtaura:**
 
 ![1733148628601](https://github.com/user-attachments/assets/75dc86e8-a05b-4a56-801f-649aa7f6e98e)
 
-**Preveiw of Quest Checker**
+**Preveiw of Quest Checker:**
 
 <img width="498" alt="image (1)" src="https://github.com/user-attachments/assets/2987330c-4b11-46b6-8c0e-8e6acb2b0525">
 
